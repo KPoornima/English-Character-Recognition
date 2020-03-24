@@ -6,3 +6,8 @@ Handwritten English Character Recognition using CNNs and Dense NNs in Keras
 • Used Convolutional Neural Networks (CNNs) and Dense Neural Nets to train the model.
 
 • Achieved a very high accuracy rate (>98%).
+
+• Dataset contains 372450 images of handwritten capitalized English letters with a pixel resolution of 28x28  
+
+• Created using Google Colabs
+
