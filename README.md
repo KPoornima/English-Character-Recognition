@@ -1,4 +1,4 @@
-# English-Character-Recognition
+# English-Character-Recognition-using-CNN
 Handwritten English Character Recognition using CNNs and Dense NNs in Keras
 
 • Aim - To train the model to correctly identify the letters of the English alphabet (written in capital).
